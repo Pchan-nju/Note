@@ -32,8 +32,8 @@ Note App 是一个基于 **Tauri** 和 **Vue** 构建的桌面应用程序，允
 首先克隆此仓库到本地，并进入项目目录：
 
 ```bash
-git clone https://github.com/your-username/note-app-tauri.git
-cd note-app-tauri
+[git clone https://github.com/your-username/note-app-tauri.git](https://github.com/Pchan-nju/Note.git)
+cd Note
 ```
 
 接着安装项目依赖：
