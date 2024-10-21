@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",  // Node.js 通常使用 commonjs 模块
+    "lib": ["esnext"],
+    "types": ["node"]
+  },
+  "include": [
+    "src-tauri/**/*.ts"
+  ],
+  "exclude": ["node_modules"]
+}
